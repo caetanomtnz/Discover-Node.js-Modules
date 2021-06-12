@@ -1,0 +1,20 @@
+{
+  "name": "discover-node.js-module06",
+  "version": "1.0.0",
+  "description": "Node.Js module-06",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Caetano Martinazzo",
+  "license": "ISC",
+  "repository": "git+https://github.com/caetanomtnz/Discover-Node.js-Module06.git",
+  "bugs": {
+    "url": "https://github.com/caetanomtnz/Discover-Node.js-Module06/issues"
+  },
+  "homepage": "https://github.com/caetanomtnz/Discover-Node.js-Module06#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
